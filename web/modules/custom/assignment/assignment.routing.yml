@@ -1,0 +1,7 @@
+assignment.assignment_form:
+  path: '/assignment'
+  defaults:
+    _title: 'Assignment Form'
+    _form: '\Drupal\assignment\Form\AssignmentForm'
+  requirements:
+    _permission: 'access content'

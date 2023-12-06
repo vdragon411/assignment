@@ -1,0 +1,7 @@
+assignment.assignment_form:
+  title: 'Assignment'
+  description: 'Assignment Form'
+  menu_name: main
+  parent: main
+  route_name: assignment.assignment_form
+  weight: 100

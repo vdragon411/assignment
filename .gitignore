@@ -25,6 +25,7 @@
 /web/vendor
 /web/core
 /web/modules/README.txt
+/web/modules/contrib
 /web/profiles/README.txt
 /web/sites/development.services.yml
 /web/sites/example.settings.local.php
@@ -45,7 +46,7 @@
 /web/index.php
 /web/INSTALL.txt
 /web/LICENSE.txt
-/web/README.txt
+/web/README.*
 /web/robots.txt
 /web/update.php
 /web/web.config
